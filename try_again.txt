@@ -4,3 +4,4 @@ Remove Outermost Parentheses
 Increasing Decreasing String
 Increasing Order Search Tree 
 N-ary Tree Preorder Traversal
+N-ary Tree Postorder Traversal
