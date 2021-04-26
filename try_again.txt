@@ -3,3 +3,4 @@ Range Sum of BST
 Remove Outermost Parentheses 
 Increasing Decreasing String
 Increasing Order Search Tree 
+N-ary Tree Preorder Traversal
