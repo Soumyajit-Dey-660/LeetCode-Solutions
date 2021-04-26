@@ -2,3 +2,4 @@ Create Target Array in the Given Order
 Range Sum of BST
 Remove Outermost Parentheses 
 Increasing Decreasing String
+Increasing Order Search Tree 
