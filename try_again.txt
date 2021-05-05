@@ -8,3 +8,4 @@ N-ary Tree Postorder Traversal
 Sort Integers by The Number of 1 Bits
 Invert Binary Tree
 Sort Array by Increasing Frequency
+Average of Levels in Binary Tree
