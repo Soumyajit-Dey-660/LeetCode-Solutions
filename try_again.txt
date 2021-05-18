@@ -10,3 +10,4 @@ Invert Binary Tree
 Sort Array by Increasing Frequency
 Average of Levels in Binary Tree
 Toeplitz Matrix
+Count Binary Substrings
