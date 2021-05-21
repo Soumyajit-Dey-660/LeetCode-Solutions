@@ -1,2 +1,3 @@
 1. Add Digits -> ref : https://en.wikipedia.org/wiki/Digital_root
 2. Fair Candy Swap
+3. Move Zeroes
