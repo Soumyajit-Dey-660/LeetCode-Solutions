@@ -1,2 +1,3 @@
 Next Greater Element I
 Find All Numbers Disappeared in an Array
+Remove Nth Node From End of List (Do it in one pass)
